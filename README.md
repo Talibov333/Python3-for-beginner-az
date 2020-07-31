@@ -1,5 +1,5 @@
 # yeni oyrenenler ucun oz python 3.8 dersleri
-# mende pythonu yeni oyrenirem 
+
 # oz basa dusduyum terzde kodlar haqqinda elave serhler(commentler) yazmisam
 # baslatmaq ucun bu folderin icerisinden commandline(cmd) acin
 # windows ucun :
